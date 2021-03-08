@@ -1,1 +1,1 @@
-# gitbashCoomand
+# gitbashCommand
